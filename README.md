@@ -2,12 +2,15 @@
 
 I am a software engineer passionate about iOS development and everything related to it.
 
-- Technical writer at Dev Genius hub on Medium.
-- Keen on open source projects. 
-- Author of SiberianSwift, SiberianVIPER, VIPERTemplates and more at https://github.com/SergeyPetrachkov 
 - JuiceFit developer since 2016
 - Texture (ex-ASDK) lover
 - Swifty CI&CD solutions architect
+- Technical writer at Dev Genius hub on Medium.
+- Keen on open source projects. 
+- Author of SiberianSwift, SiberianVIPER, VIPERTemplates and more at https://github.com/SergeyPetrachkov 
+
+- 🔭 I’m currently working on SwiftBuildKit at CFT and on JuiceFit in my spare time
+- 🌱 I’m currently learning algorithms to keep sharp and solving some exercises from leetcode
 
 - 📫 How to reach me: petrachkovsergey@gmail.com or @petrachkovsergey at Telegram
 
