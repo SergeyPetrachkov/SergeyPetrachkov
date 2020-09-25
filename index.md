@@ -1,37 +1,19 @@
-## Welcome to GitHub Pages
+## Hi there 👋
 
-You can use the [editor on GitHub](https://github.com/SergeyPetrachkov/SergeyPetrachkov/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+I am a software engineer passionate about iOS development and everything related to it.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+- 💪 [JuiceFit](https://apps.apple.com/us/app/juicefit/id1130889719) developer since 2016
+- ❤️ [Texture](https://github.com/TextureGroup/Texture) (ex-ASDK) lover and a little bit of a contributor
+- 🛠 Swifty CI&CD solutions architect
+- 📝 [Technical writer](https://medium.com/@petrachkovsergey) at Dev Genius hub on Medium
+- 💻 Author of [SiberianSwift](https://github.com/SergeyPetrachkov/SiberianSwift), [SiberianVIPER](https://github.com/SergeyPetrachkov/SiberianVIPER), VIPERTemplates and more at https://github.com/SergeyPetrachkov 
 
-### Markdown
+## My Work
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 🔭 I’m currently working on SwiftBuildKit at CFT and on [JuiceFit](https://apps.apple.com/us/app/juicefit/id1130889719) in my spare time
+- 🌱 I’m currently learning algorithms to keep sharp and solving some exercises from [leetcode](https://leetcode.com/petrachkovsergey/)
 
-```markdown
-Syntax highlighted code block
+## Contacts
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/SergeyPetrachkov/SergeyPetrachkov/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- 📫 petrachkovsergey@gmail.com
+- [Telegram](https://t.me/petrachkovsergey)
