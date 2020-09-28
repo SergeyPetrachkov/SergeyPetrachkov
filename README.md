@@ -13,6 +13,8 @@ I am a software engineer passionate about iOS development and everything related
 
 - 📫 How to reach me: petrachkovsergey@gmail.com or [Telegram](https://t.me/petrachkovsergey)
 
+See the full version: https://sergeypetrachkov.github.io/SergeyPetrachkov/
+
 <!--
 **SergeyPetrachkov/SergeyPetrachkov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
