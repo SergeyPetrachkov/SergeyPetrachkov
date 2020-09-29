@@ -11,4 +11,13 @@ I am a software engineer passionate about iOS development and everything related
 
 - 📫 How to reach me: petrachkovsergey@gmail.com or [Telegram](https://t.me/petrachkovsergey)
 
+<p align="left">
+  <a href="https://github.com/SergeyPetrachkov">
+     <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=SergeyPetrachkov&show_icons=true&hide_border=true&count_private=true" />
+  </a>
+  <a href="https://github.com/SergeyPetrachkov/">
+     <img alt="Most Used Language" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SergeyPetrachkov&hide_border=true&layout=compact" />
+  </a>
+</p>
+
 See the full version: https://sergeypetrachkov.github.io/SergeyPetrachkov/
