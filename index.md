@@ -29,6 +29,7 @@ I am a software engineer passionate about iOS development and everything related
 - [Activity indicator in Navigation Bar (tutorial)](https://medium.com/dev-genius/activity-indicator-in-navigation-bar-tutorial-484b2614f6e4)
 - [Apple SignIn. Inside the token](https://medium.com/dev-genius/apple-signin-inside-the-token-e51c58d94e86)
 - [Switching web servers in your iOS app during development](https://medium.com/actonica/manage-environments-in-your-ios-app-9ba1c0117414)
+- [Mobifest-RU](https://www.notion.so/a92893d8ab28491e97711ee74aef6a6f)
 
 ## Great articles and videos by other authors
 
@@ -82,9 +83,16 @@ I am a software engineer passionate about iOS development and everything related
 - [Swift collection types](https://harshil.net/blog/swift-sequence-collection-array)
 - [Objective-C posing (deprecated)](https://www.tutorialspoint.com/objective_c/objective_c_posing.htm#:~:text=Objective%2DC%20permits%20a%20class,received%20by%20the%20posing%20class.)
 - [Combine + API](https://www.vadimbulavin.com/modern-networking-in-swift-5-with-urlsession-combine-framework-and-codable/)
-- [it-looks-like-you-are-trying-to-use-a-framework](https://www.bignerdranch.com/blog/it-looks-like-you-are-trying-to-use-a-framework/)
-- [Optimizing start time](https://developer.apple.com/videos/play/wwdc2016/406/)
+
+## Mobifest articles
 - [library-static-dynamic-or-framework-project-inside-another-project](https://stackoverflow.com/questions/15331056/library-static-dynamic-or-framework-project-inside-another-project/59216151#59216151)
+- [Frameworks: it-looks-like-you-are-trying-to-use-a-framework](https://www.bignerdranch.com/blog/it-looks-like-you-are-trying-to-use-a-framework/)
+- [WWDC Launch time 2016](https://developer.apple.com/videos/play/wwdc2016/406/)
+- [WWDC Launch time 2017](https://developer.apple.com/videos/play/wwdc2017/413)
+- [How nibs work](https://developer.apple.com/library/archive/documentation/Cocoa/Conceptual/LoadingResources/CocoaNibs/CocoaNibs.html)
+- [Module map, clang](https://clang.llvm.org/docs/Modules.html#module-maps)
+- [Slow app startup time](https://useyourloaf.com/blog/slow-app-startup-times/)
+- [Compiled framework spm example](https://github.com/wendyliga/compiled-framework-spm)
 
 ## Contacts
 
