@@ -93,7 +93,7 @@ I am a software engineer passionate about iOS development and everything related
 - [Module map, clang](https://clang.llvm.org/docs/Modules.html#module-maps)
 - [Slow app startup time](https://useyourloaf.com/blog/slow-app-startup-times/)
 - [Compiled framework spm example](https://github.com/wendyliga/compiled-framework-spm)
-- [Slides](https://github.com/SergeyPetrachkov/SergeyPetrachkov/blob/gh-pages/Mobifest%20%2B%20SPM.zip)
+- [Slides](https://github.com/SergeyPetrachkov/SergeyPetrachkov/raw/gh-pages/Mobifest%20%2B%20SPM.zip)
 
 ## Contacts
 
