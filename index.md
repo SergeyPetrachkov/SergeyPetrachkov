@@ -22,6 +22,7 @@ I am a software engineer passionate about iOS development and everything related
 - [SwiftyVideoExporter](https://github.com/SergeyPetrachkov/SwiftyVideoExporter) - export video from your gallery and apply transforms (crop/bitrate)
 - [SKProductExtensions](https://github.com/SergeyPetrachkov/SKProductExtensions) - a few helpers for store kit
 - [Daily Rates](https://github.com/SergeyPetrachkov/DailyRatesRF) - simple project to show RU central bank rates with the possibility to store preferred order of currencies
+- [Hacker news api client](https://github.com/SergeyPetrachkov/HackerNewsDemo)
 
 ## Read my articles
 
