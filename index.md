@@ -95,6 +95,7 @@ I am a software engineer passionate about iOS development and everything related
 - [Slow app startup time](https://useyourloaf.com/blog/slow-app-startup-times/)
 - [Compiled framework spm example](https://github.com/wendyliga/compiled-framework-spm)
 - [Slides](https://github.com/SergeyPetrachkov/SergeyPetrachkov/raw/gh-pages/Mobifest%20%2B%20SPM.zip)
+- [Stream](https://www.youtube.com/watch?v=cA6vZWNvKvw&feature=youtu.be&ab_channel=videoCFT)
 
 ## Contacts
 
