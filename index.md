@@ -21,8 +21,10 @@ I am a software engineer passionate about iOS development and everything related
 - [NavigationBarProgress](https://github.com/SergeyPetrachkov/NavigationBarProgress) - drop-in component to display activity in navigation bar (like in Telegram or WhatsApp)
 - [SwiftyVideoExporter](https://github.com/SergeyPetrachkov/SwiftyVideoExporter) - export video from your gallery and apply transforms (crop/bitrate)
 - [SKProductExtensions](https://github.com/SergeyPetrachkov/SKProductExtensions) - a few helpers for store kit
+- [Apple Receipt Validator](https://github.com/SergeyPetrachkov/AppleReceiptValidator)
 - [Daily Rates](https://github.com/SergeyPetrachkov/DailyRatesRF) - simple project to show RU central bank rates with the possibility to store preferred order of currencies
 - [Hacker news api client](https://github.com/SergeyPetrachkov/HackerNewsDemo)
+- [Video Stream of Mobifest](https://www.youtube.com/watch?v=cA6vZWNvKvw&feature=youtu.be&ab_channel=videoCFT)
 
 ## Read my articles
 
@@ -31,6 +33,7 @@ I am a software engineer passionate about iOS development and everything related
 - [Apple SignIn. Inside the token](https://medium.com/dev-genius/apple-signin-inside-the-token-e51c58d94e86)
 - [Switching web servers in your iOS app during development](https://medium.com/actonica/manage-environments-in-your-ios-app-9ba1c0117414)
 - [Mobifest-RU](https://www.notion.so/a92893d8ab28491e97711ee74aef6a6f)
+- [Validate apple receipts easily](https://medium.com/@petrachkovsergey/validate-apple-receipts-easily-1c91c72a424f)
 
 ## Great articles and videos by other authors
 
@@ -95,7 +98,7 @@ I am a software engineer passionate about iOS development and everything related
 - [Slow app startup time](https://useyourloaf.com/blog/slow-app-startup-times/)
 - [Compiled framework spm example](https://github.com/wendyliga/compiled-framework-spm)
 - [Slides](https://github.com/SergeyPetrachkov/SergeyPetrachkov/raw/gh-pages/Mobifest%20%2B%20SPM.zip)
-- [Stream](https://www.youtube.com/watch?v=cA6vZWNvKvw&feature=youtu.be&ab_channel=videoCFT)
+- [Video Stream of Mobifest](https://www.youtube.com/watch?v=cA6vZWNvKvw&feature=youtu.be&ab_channel=videoCFT)
 
 ## Contacts
 
