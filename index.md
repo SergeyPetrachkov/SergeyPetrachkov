@@ -15,6 +15,8 @@ I am a software engineer passionate about iOS development and everything related
 
 ## My libraries and samples
 
+- [Simple toast manager for iOS](https://github.com/SergeyPetrachkov/JuicyToast)
+- [Clip maker for iOS](https://github.com/SergeyPetrachkov/JuiceClipMaker)
 - [SiberianSwift](https://github.com/SergeyPetrachkov/SiberianSwift) - bunch of helpers and extensions
 - [SiberianVIPER](https://github.com/SergeyPetrachkov/SiberianVIPER) - lightweight VIPER framework
 - [DottedCircleActivityIndicator](https://github.com/SergeyPetrachkov/DottedCircleActivityIndicator) - simple activity indicator
