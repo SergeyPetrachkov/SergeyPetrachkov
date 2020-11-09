@@ -3,7 +3,7 @@
 I am a software engineer passionate about iOS development and everything related to it.
 
 - 💪 [JuiceFit](https://apps.apple.com/us/app/juicefit/id1130889719) developer since 2016
-- ❤️ [Texture](https://github.com/TextureGroup/Texture) (ex-ASDK) lover and a little bit of a contributor
+- ❤️ [Texture](https://github.com/TextureGroup/Texture) (ex-ASDK) & [Swift Argument Parser](https://github.com/apple/swift-argument-parser) lover & contributor
 - 🛠 Swifty CI&CD solutions architect
 - 📝 [Technical writer](https://medium.com/@petrachkovsergey) at Dev Genius hub on Medium
 - 🔭 I’m currently working on SwiftBuildKit at CFT and on [JuiceFit](https://apps.apple.com/us/app/juicefit/id1130889719) in my spare time
