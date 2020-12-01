@@ -24,7 +24,7 @@ I am a software engineer passionate about iOS development and everything related
 - [Hacker news api client](https://github.com/SergeyPetrachkov/HackerNewsDemo) (SwiftUI, Combine)
 - [Video Stream of Mobifest](https://www.youtube.com/watch?v=cA6vZWNvKvw&feature=youtu.be&ab_channel=videoCFT) - my speech upon the subject of Static/Dynamic linking and how Swift package manager can make a developer's life a little bit easier
 
-and more mature samples upon request...
+and more samples upon request...
 
 
 ## 📫 How to reach me
