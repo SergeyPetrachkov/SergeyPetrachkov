@@ -29,7 +29,9 @@ and more samples upon request...
 
 ## 📫 How to reach me
 
-- petrachkovsergey@gmail.com or [Telegram](https://t.me/petrachkovsergey)
+- petrachkovsergey@gmail.com
+- [Telegram](https://t.me/petrachkovsergey)
+- petrachkovsergey on Skype
 
 <p align="left">
   <a href="https://github.com/SergeyPetrachkov">
