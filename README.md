@@ -23,6 +23,7 @@ I am a software engineer passionate about iOS development and everything related
 - [Daily Rates](https://github.com/SergeyPetrachkov/DailyRatesRF) - simple project to show RU central bank rates with the possibility to store preferred order of currencies
 - [Hacker news api client](https://github.com/SergeyPetrachkov/HackerNewsDemo) (SwiftUI, Combine)
 - [Video Stream of Mobifest](https://www.youtube.com/watch?v=cA6vZWNvKvw&feature=youtu.be&ab_channel=videoCFT) - my speech upon the subject of Static/Dynamic linking and how Swift package manager can make a developer's life a little bit easier
+- [SiberianPropertyWrappers](https://github.com/SergeyPetrachkov/SiberianPropertyWrappers) - a few property wrappers that I use from time to time (Swift, SwiftPM)
 
 and more samples upon request...
 
