@@ -10,7 +10,7 @@ I am a software engineer passionate about iOS development and everything related
 
 ## My Work
 
-- 🔭 I’m currently working on SwiftBuildKit at CFT and on [JuiceFit](https://apps.apple.com/us/app/juicefit/id1130889719) in my spare time
+- 🔭 I’m currently working Polarsteps as an iOS developer and on [JuiceFit](https://apps.apple.com/us/app/juicefit/id1130889719) in my spare time
 - 🌱 I’m currently learning algorithms to keep sharp and solving some exercises from [leetcode](https://leetcode.com/petrachkovsergey/)
 
 ## My libraries and samples
