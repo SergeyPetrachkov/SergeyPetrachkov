@@ -30,6 +30,8 @@ I am a software engineer passionate about iOS development and everything related
 
 ## Read my articles
 
+- [How to organize mock files with SPM](https://medium.com/@petrachkovsergey/how-to-organize-mock-files-with-spm-6213f55f4da9)
+- [Load images with different approaches and compare memory footprint](https://medium.com/@petrachkovsergey/images-loader-and-memory-footprint-e8142ffebf0f)
 - [Adopt Firebase+SPM early](https://medium.com/dev-genius/firebase-spm-xcode-12-bcefcef2bd6b)
 - [Activity indicator in Navigation Bar (tutorial)](https://medium.com/dev-genius/activity-indicator-in-navigation-bar-tutorial-484b2614f6e4)
 - [Apple SignIn. Inside the token](https://medium.com/dev-genius/apple-signin-inside-the-token-e51c58d94e86)
@@ -38,6 +40,8 @@ I am a software engineer passionate about iOS development and everything related
 - [Validate apple receipts easily](https://medium.com/@petrachkovsergey/validate-apple-receipts-easily-1c91c72a424f)
 
 ## Great articles and videos by other authors
+
+Full list [here](https://github.com/SergeyPetrachkov/ReadersDigest)
 
 - [Weak References in Swift 4](https://mikeash.com/pyblog/friday-qa-2017-09-22-swift-4-weak-references.html)
 - [Memory Layout Swift](https://academy.realm.io/posts/greg-heo-dealing-asynchrous-synchronous-swift-swift-language-user-group-2017/)
