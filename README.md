@@ -7,7 +7,6 @@ I am a software engineer passionate about iOS development and everything related
 - 🛠 Swifty CI&CD solutions architect
 - 📝 [Technical writer](https://medium.com/@petrachkovsergey) at Dev Genius hub on Medium
 - 🔭 I’m currently working at [Polarsteps](https://www.polarsteps.com/) as an iOS engineer. And on [JuiceFit](https://apps.apple.com/us/app/juicefit/id1130889719) in my spare time
-- 🌱 I’m currently learning algorithms to keep sharp and solving some exercises from [leetcode](https://leetcode.com/petrachkovsergey/)
 
 ## My libraries and samples
 
