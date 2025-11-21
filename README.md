@@ -12,6 +12,7 @@ I am a software engineer passionate about iOS development and everything related
 
 - [AsyncPoller<T>](https://github.com/SergeyPetrachkov/AsyncPoller) - Polling mechanism that's powered by Swift Concurrency
 - [CorporateTestflight](https://github.com/SergeyPetrachkov/CorporateTestflight) - A project for my Swift Concurrency workshop
+- [ReaderWriterPlayground](https://github.com/SergeyPetrachkov/ReaderWriterProblemPlayground) - A "knowledge-bank" project for the reader-writer problem
 - [Simple toast manager for iOS](https://github.com/SergeyPetrachkov/JuicyToast) - Show simple and configurable toast messages (UIKit, SwiftPM)
 - [Clip maker for iOS](https://github.com/SergeyPetrachkov/JuiceClipMaker) - Process and merge several videos (CoreAnimation, AVFoundation, GCD, UIKit)
 - [DottedCircleActivityIndicator](https://github.com/SergeyPetrachkov/DottedCircleActivityIndicator) - simple activity indicator (UIKit, CoreAnimation, SwiftPM)
