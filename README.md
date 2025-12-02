@@ -2,11 +2,11 @@
 
 I am a software engineer passionate about iOS development and everything related to it.
 
+- 📝 [Technical writer](https://medium.com/@petrachkovsergey) at Dev Genius hub on Medium
+- 🔭 Projects I used to be a part of and that I am proud of: [Polarsteps](https://www.polarsteps.com/), [JuiceFit](https://apps.apple.com/us/app/juicefit/id1130889719)
 - 💪 [JuiceFit](https://apps.apple.com/us/app/juicefit/id1130889719) developer and architect 2016-2023
 - ❤️ [Texture](https://github.com/TextureGroup/Texture) (ex-ASDK) & [Swift Argument Parser](https://github.com/apple/swift-argument-parser) & [Tuist](https://github.com/tuist/tuist) fan & contributor
 - 🛠 Swifty CI&CD solutions architect
-- 📝 [Technical writer](https://medium.com/@petrachkovsergey) at Dev Genius hub on Medium
-- 🔭 Projects I used to be a part of and that I am proud of: [Polarsteps](https://www.polarsteps.com/), [JuiceFit](https://apps.apple.com/us/app/juicefit/id1130889719)
 
 ## My libraries and samples
 
@@ -24,10 +24,3 @@ I am a software engineer passionate about iOS development and everything related
 - [SiberianPropertyWrappers](https://github.com/SergeyPetrachkov/SiberianPropertyWrappers) - a few property wrappers that I use from time to time (Swift, SwiftPM)
 
 and more samples upon request...
-
-
-## 📫 How to reach me
-
-- petrachkovsergey@gmail.com
-- [Telegram](https://t.me/petrachkovsergey)
-- petrachkovsergey on Skype
