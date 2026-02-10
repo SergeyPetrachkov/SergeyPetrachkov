@@ -2,6 +2,7 @@
 
 I am a software engineer passionate about iOS development and everything related to it.
 
+- [Founder of NutriSmart - Macros tracker](https://apps.apple.com/us/app/nutrismart-macros-tracker/id6757466823)
 - 📝 [Technical writer](https://medium.com/@petrachkovsergey) at Dev Genius hub on Medium
 - 🔭 Projects I used to be a part of and that I am proud of: [Polarsteps](https://www.polarsteps.com/), [JuiceFit](https://apps.apple.com/us/app/juicefit/id1130889719)
 - 💪 [JuiceFit](https://apps.apple.com/us/app/juicefit/id1130889719) developer and architect 2016-2023
@@ -15,15 +16,12 @@ I am a software engineer passionate about iOS development and everything related
 - [ReaderWriterPlayground](https://github.com/SergeyPetrachkov/ReaderWriterProblemPlayground) - A "knowledge-bank" project for the reader-writer problem
 - [AsyncBroadcast](https://github.com/SergeyPetrachkov/AsyncBroadcast) - A tiny 1-to-N broadcast channel built on Swift Concurrency. It lets multiple subscribers receive the same values without Combine.
 - [Navigator-Lite](https://github.com/SergeyPetrachkov/Navigator-Lite) - A small drop-in solution for SwiftUI navigation
-  
 - [Simple toast manager for iOS](https://github.com/SergeyPetrachkov/JuicyToast) - Show simple and configurable toast messages (UIKit, SwiftPM)
 - [Clip maker for iOS](https://github.com/SergeyPetrachkov/JuiceClipMaker) - Process and merge several videos (CoreAnimation, AVFoundation, GCD, UIKit)
 - [DottedCircleActivityIndicator](https://github.com/SergeyPetrachkov/DottedCircleActivityIndicator) - simple activity indicator (UIKit, CoreAnimation, SwiftPM)
 - [NavigationBarProgress](https://github.com/SergeyPetrachkov/NavigationBarProgress) - drop-in component to display activity in navigation bar like in Telegram or WhatsApp. (SwiftPM)
 - [SwiftyVideoExporter](https://github.com/SergeyPetrachkov/SwiftyVideoExporter) - export video from your gallery and apply transforms (crop/bitrate) (ObjC, SwiftPM)
 - [SKProductExtensions](https://github.com/SergeyPetrachkov/SKProductExtensions) - a few helpers for store kit (SwiftPM)
-- [Apple Receipt Validator](https://github.com/SergeyPetrachkov/AppleReceiptValidator) - validate receipt data, can be used for VAPOR backend after some work (Swift, Network, Codable)
 - [Video Stream of Mobifest](https://www.youtube.com/watch?v=cA6vZWNvKvw&feature=youtu.be&ab_channel=videoCFT) - my speech upon the subject of Static/Dynamic linking and how Swift package manager can make a developer's life a little bit easier
-- [SiberianPropertyWrappers](https://github.com/SergeyPetrachkov/SiberianPropertyWrappers) - a few property wrappers that I use from time to time (Swift, SwiftPM)
 
 and more samples upon request...
